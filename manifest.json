@@ -1,0 +1,17 @@
+{
+  "name": "지뢰찾기",
+  "short_name": "지뢰찾기",
+  "description": "오프라인에서도 되는 지뢰찾기 게임",
+  "start_url": "./minesweeper.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1e2230",
+  "theme_color": "#1e2230",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
